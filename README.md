@@ -1,1 +1,1 @@
-# simple-vanilla-js-calculator
+<h1> Vanilla Javascript Calculator </h1>
