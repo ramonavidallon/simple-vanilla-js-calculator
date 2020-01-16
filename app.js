@@ -88,6 +88,7 @@ for (let i = 0; i < calcNumBtns.length; i++) {
   calcNumBtns[i].addEventListener('click', updateDisplayVal, false)
 }
 
+// for loop to loop through all of the operations
 for (let i = 0; i < calcOperatorBtns.length; i++) {
   calcOperatorBtns[i].addEventListener('click', calcOperation, false)
 }
