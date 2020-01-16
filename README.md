@@ -12,5 +12,4 @@
  <h3> https://ramonavidallon.github.io/vanilla-js-calculator/ </h3>
 
 <hr>
-
-<img width="1440" alt="Screen Shot 2020-01-15 at 4 20 51 PM" src="https://user-images.githubusercontent.com/43662571/72482583-0f161300-37b3-11ea-984b-ee99eef112c6.png">
+<img width="406" alt="Screen Shot 2020-01-15 at 4 22 08 PM" src="https://user-images.githubusercontent.com/43662571/72482626-3836a380-37b3-11ea-85bd-afc272ba769c.png">
